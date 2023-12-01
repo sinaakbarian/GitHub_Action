@@ -56,7 +56,6 @@ Let's create a simple example workflow:
            run: python file.py
    ```
 
-3. Explore the details of each action and highlight the commands in the workflow.
 
 ## Execution and Dependencies
 
